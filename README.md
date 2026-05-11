@@ -8,10 +8,15 @@ Former educator and flight attendant transitioning into cloud engineering. Curre
 
 ### Bash Scripts (LInux/AWS EC2)
 A collection of real automation scripts built on AWS EC2
+[View Scripts](./bash-scripts/)
 
 - system_health.sh - checks disk space, memory, amd logged in users
 - disk_alert.sh - alerts when disk usage exceeds a threshold
 - back_up.sh - creates a timestamped backup of directories 
+
+### AWS Resource Monitor 
+Real time AWS resource monitoring tool built with Python and Boto3.
+[View Project](https://github.com/zakiyawilliams617/aws-resource-monitor)
 
 ## Certifications In Progress
 - AWS Cloud Practitioner (2026)
