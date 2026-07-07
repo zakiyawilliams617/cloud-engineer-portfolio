@@ -2,7 +2,7 @@
 ### Zakiya Williams | Aspiring Cloud Engineer
 
 ## About
-Former educator and flight attendant transitioning into cloud engineering. Currently pursing AWS Cloud Practitioner and AWS Solutions Architect Associate.
+Former educator and flight attendant transitioning into cloud engineering. Currently pursuing AWS Cloud Practitioner and AWS Solutions Architect Associate.
 
 ## Projects
 
@@ -10,7 +10,7 @@ Former educator and flight attendant transitioning into cloud engineering. Curre
 A collection of real automation scripts built on AWS EC2
 [View Scripts](./bash-scripts/)
 
-- system_health.sh - checks disk space, memory, amd logged in users
+- system_health.sh - checks disk space, memory, and logged in users
 - disk_alert.sh - alerts when disk usage exceeds a threshold
 - back_up.sh - creates a timestamped backup of directories 
 
